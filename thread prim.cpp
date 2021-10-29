@@ -2,7 +2,6 @@
 #include <thread>
 #include <chrono>
 #include <fstream>
-#include <bitset>
 
 #define cin in
 
